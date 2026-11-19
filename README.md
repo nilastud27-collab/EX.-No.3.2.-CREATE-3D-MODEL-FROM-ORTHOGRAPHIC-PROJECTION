@@ -39,7 +39,7 @@ and click OK.
 
 <img width="495" height="543" alt="Screenshot 2026-11-19 235556" src="https://github.com/user-attachments/assets/92390b6d-15df-47f5-86f1-18133d3509c1" />
 
-Step 4: Cut the Top Center Hole 
+## Step 4: Cut the Top Center Hole 
 1. Select Construct > Offset Plane, choose the XY Plane, enter 110 mm upward (tangent to the top of the arch), and click OK. 
 2. Select Create Sketch on this new construction plane. 
 3. Draw a Circle (C) of diameter 20 mm (Ø20) centered at the origin (0, 0) and click Finish Sketch. 
@@ -48,7 +48,7 @@ face of the 60 mm slot, and click OK.
 
 <img width="432" height="508" alt="Screenshot 2026-11-19 235603" src="https://github.com/user-attachments/assets/e0708e95-103c-4d3e-a842-d927c28adee1" />
 
-Step 5: Create the Base Lugs (Top View) 
+## Step 5: Create the Base Lugs (Top View) 
 1. Select Create Sketch and choose the XY Plane (Bottom plane). 
 2. Draw two circles of diameter 120 mm (R60) centered at 150 
 mm to the left and right of the origin (center-to-center distance 300 mm). 
@@ -64,7 +64,7 @@ mm upward, and click OK.
 
 <img width="560" height="646" alt="Screenshot 2026-11-19 235618" src="https://github.com/user-attachments/assets/c245a968-1188-4695-9dbb-bdcd8ad4889d" />
 
-Step 6:Offset face
+## Step 6:Offset face
 
 <img width="522" height="297" alt="Screenshot 2026-11-19 235624" src="https://github.com/user-attachments/assets/1c3faa5d-f34f-46a5-8ec2-5763755cc198" />
 
